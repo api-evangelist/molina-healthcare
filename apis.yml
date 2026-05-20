@@ -4,6 +4,8 @@ url:
 modified: '2026-04-28'
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/molina-healthcare
   - type: Website
     url: https://www.molina-healthcare.com
 description: >-
