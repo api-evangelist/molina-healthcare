@@ -1,4 +1,5 @@
 aid: molina-healthcare
+name: "Molina Healthcare"
 specificationVersion: '0.23'
 accessModel:
   pricing: unknown
