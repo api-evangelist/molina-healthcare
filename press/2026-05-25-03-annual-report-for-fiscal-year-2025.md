@@ -1,7 +1,9 @@
 ---
 title: Annual Report for Fiscal Year 2025
 url: https://investors.molinahealthcare.com/static-files/b930ad46-3af0-4454-a216-a1221d3612ea
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Molina Healthcare" press release artificial intelligence'
 position: 3
 source: serpapi-google

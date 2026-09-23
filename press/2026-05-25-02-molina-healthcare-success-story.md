@@ -1,7 +1,9 @@
 ---
 title: Molina Healthcare Success Story
 url: https://www.progress.com/customers/molina-healthcare
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Molina Healthcare" press release artificial intelligence'
 position: 2
 source: serpapi-google

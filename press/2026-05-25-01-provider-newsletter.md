@@ -1,7 +1,9 @@
 ---
 title: Provider Newsletter
 url: https://www.molinahealthcare.com/-/media/Molina/PublicWebsite/PDF/Providers/ne/EN/2025-February-Provider-Newsletter_remediated.pdf
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Molina Healthcare" press release artificial intelligence'
 position: 1
 source: serpapi-google
